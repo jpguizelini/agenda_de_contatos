@@ -20,3 +20,28 @@ Para implementar essas funcionalidades, utilizei os seguintes conceitos:
 Estou em constante aprendizado em Python e gostaria de receber sugestões e melhorias para os meus códigos. Sinta-se à vontade para explorar o repositório, sugerir alterações, fazer comentários ou abrir problemas (issues). Estou aberto a colaborações e feedbacks construtivos para aprimorar minhas habilidades em programação Python.
 
 Espero que você encontre valor neste projeto!
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+# Contact Book in Python
+
+In this repository, I present my first small program in Python: a contact book. Over the past few months, I have been studying algorithms, programming, and taking courses to improve my skills. Using the concepts I've learned, I developed this program with the aim of applying the acquired knowledge.
+
+## Features
+
+The contact book in Python offers the following features:
+
+- Add a new contact to the book
+- Modify information of an existing contact
+- Remove a contact from the book
+- Save the book's data to a text file on the computer
+
+To implement these features, I used the following concepts:
+
+- Data structures: I used dictionaries and lists to store and organize the contact information. Each contact is represented by a list within a dictionary, containing fields such as name, phone number, email, etc.
+- Looping: I used looping constructs like `while` and `for` to enable continuous interactions with the user, such as adding multiple contacts or searching for a specific contact.
+- Functions: I organized the code into functions to modularize the operations of the contact book. Each mentioned functionality is implemented as a separate function, allowing code reuse and facilitating maintenance and addition of new features.
+
+I am constantly learning in Python and would appreciate suggestions and improvements for my code. Feel free to explore the repository, suggest changes, make comments, or open issues. I am open to collaborations and constructive feedback to enhance my skills in Python programming.
+
+I hope you find value in this project!
